@@ -27,6 +27,8 @@ function App() {
       { name: "Sumit Kumar Pandey", daysPresent: 25, daysAbsent: 3 },
       { name: "Krishan Kant", daysPresent: 20, daysAbsent: 2 },
       { name: "Sujeet Kumar Sharma", daysPresent: 20, daysAbsent: 3 },
+      { name: "Alok Sharma", daysPresent: 15, daysAbsent: 1 },
+      { name: "Aman Thakur", daysPresent: 20, daysAbsent: 3 },
     ],
   });
 
